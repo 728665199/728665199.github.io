@@ -7,9 +7,9 @@
 title: NexT
 subtitle:
 description:
-author: John Doe
+author: Sirus
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -317,7 +317,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
@@ -392,12 +392,6 @@ disqus:
 
 # Gentie productKey
 #gentie_productKey:
-
-# changyan
-changyan:
-  enable: false
-  appid:
-  appkey:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
@@ -579,7 +573,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
